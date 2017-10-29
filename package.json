@@ -1,9 +1,9 @@
 {
-  "name": "idle-vue",
-  "version": "2.0.5",
-  "description": "Vue component wrapper for idle-js",
-  "repository": "https://github.com/soixantecircuits/idle-vue.git",
-  "author": "Olivier FAURE <olivier.faure@epitech.eu>",
+  "name": "idle-vue-start-active",
+  "version": "0.0.1-alpha",
+  "description": "Extension of the Vue component wrapper for idle-js (idle-vue) but with the flag for whether the page loads with idle or not set to false (ie we assume that they are not idle on start up)",
+  "repository": "https://github.com/ross2411/idle-vue.git",
+  "author": "Ross Ellerington <ross.ellerington@tredsoft.co.uk>",
   "license": "MIT",
   "main": "dist/build.js",
   "scripts": {
