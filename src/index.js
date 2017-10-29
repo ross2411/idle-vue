@@ -13,7 +13,7 @@ export default {
       idleTime = 60 * 1000,
       events = ['mousemove', 'keydown', 'mousedown', 'touchstart'],
       keepTracking = true,
-      startAtIdle = true
+      startAtIdle = false
     } = options || {}
 
     if (!eventEmitter && !store) {
