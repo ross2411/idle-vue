@@ -1,5 +1,8 @@
-idle-vue [![Build Status](https://travis-ci.org/soixantecircuits/idle-vue.svg?branch=master)](https://travis-ci.org/soixantecircuits/idle-vue)
+idle-vue-start-active [![Build Status](https://travis-ci.org/soixantecircuits/idle-vue.svg?branch=master)](https://travis-ci.org/soixantecircuits/idle-vue)
 ========
+
+**Please note this is a fork of the idle-vue to enable start to assume active rather then idel**
+
 
 `idle-vue` is a [Vue.js](http://vuejs.org/) plug-in, that detects when the user hasn't interacted with your app for a while. `idle-vue` is meant to be used with Vue, [Vuex](https://github.com/vuejs/vuex) and either [Webpack](https://webpack.js.org/) or [Browserify](http://browserify.org/).
 
